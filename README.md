@@ -14,7 +14,7 @@ will be prioritized over Advanced functionality.
 
 
 Topics
-======
+------
 
  * Creating new arrays
  * Creating random arrays
@@ -32,3 +32,7 @@ Topics
  * Special matrices
  * Really big arrays
  * Fitting data
+ * Testing & numpy code
+ * NumExpr
+ * Cython
+ * Numba
